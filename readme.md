@@ -59,6 +59,13 @@ Professional Testing:
 Form Validation -> Negative Testing -> RBAC -> UI / Responsive -> Security -> Performance -> Logging & Reporting
 
 ```
+## 👥 Website Roles
+
+- **👤 Normal User:** Create parcels, track delivery status  
+- **🖥️ Admin:** Manage parcels, assign delivery man, update status  
+- **🛵 Delivery Man:** View assigned parcels, update delivery status  
+
+> 🔐 Role-based access ensures secure and professional workflow.
 
 ## 💡 Notes
 
